@@ -1,4 +1,4 @@
-# 🏗️ clean_architecture_feature_riverpod
+# 🏗️ mason_brick_clean_architecture_feature_riverpod
 
 [![License: MIT][license_badge]][license_link] [![Powered by Mason][mason_badge]][mason_link]
 
