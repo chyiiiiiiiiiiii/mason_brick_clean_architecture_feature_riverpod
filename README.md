@@ -24,17 +24,13 @@ To use the **clean_architecture_feature_riverpod** brick, and generate code. You
 mason make clean_architecture_feature_riverpod
 ```
 
-# Args ✨
+# Variables ✨
 
 The following table outlines the variables that can be used when generating a new feature folder.
 
 | Variable | Description                | Required   | Type     |
 | -------- | -------------------------- | ---------- | -------- |
 | `feature_name`   | 🏷️ Name of the folder, files.              | `Yes`      | `string` |
-
-# Demo
-
-<img src="./demo/demo.gif" />
 
 # Output 📦
 

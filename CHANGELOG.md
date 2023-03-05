@@ -1,3 +1,8 @@
 # 0.1.0+1
 
-- TODO: Describe initial release.
+- Remove demo in README.md
+
+# 0.1.0
+
+- Initial release 🎉
+

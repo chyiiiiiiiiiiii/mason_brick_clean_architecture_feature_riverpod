@@ -1,5 +1,5 @@
 name: clean_architecture_feature_riverpod
-description: A new brick created with the Mason CLI.
+description: Create the brick for Riverpod feature-template code.
 repository: https://github.com/chyiiiiiiiiiiii/clean_architecture_feature_riverpod
 
 # The following defines the brick repository url.
