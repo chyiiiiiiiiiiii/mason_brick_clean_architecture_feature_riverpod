@@ -13,7 +13,7 @@ Once you have Mason installed, you can add the **clean_architecture_feature_rive
 
 ``` yaml
 bricks:
-  clean_architecture_feature_riverpod: 0.1.0+1
+  clean_architecture_feature_riverpod: 0.1.0+2
 ```
 
 # Usage 🕹️
@@ -31,6 +31,10 @@ The following table outlines the variables that can be used when generating a ne
 | Variable | Description                | Required   | Type     |
 | -------- | -------------------------- | ---------- | -------- |
 | `feature_name`   | 🏷️ Name of the folder, files.              | `Yes`      | `string` |
+
+# Packages 🗂️
+Need to make sure your project has these packages.
+- hooks_riverpod
 
 # Output 📦
 

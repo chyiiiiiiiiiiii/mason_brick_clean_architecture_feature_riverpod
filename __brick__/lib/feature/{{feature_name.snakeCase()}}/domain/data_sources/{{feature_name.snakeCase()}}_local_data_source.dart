@@ -1,3 +1,3 @@
-abstract class {{feature_name.pascalCase()}}LocalDataSource {
+abstract interface class {{feature_name.pascalCase()}}LocalDataSource {
 
 }
